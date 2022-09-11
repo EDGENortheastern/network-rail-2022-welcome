@@ -8,22 +8,24 @@ Hello. This is GitHub, the place where coders store code and collaborate.
 
 ## Task 1
 
-Code on GitHub is stored in repositories. Those are like folders.
+The code on GitHub is stored in repositories. Those are like folders.
 
-To keep track of the versions of the code coders and data people use Git. Git is a version control software. It allows to go back in time, to a version that you had 2 hours ago, for example. GitHub is Git plus a place on the internet where your code folders are.
+To keep track of the versions of the code coders and data people use Git. Git is a version control software. For example, it allows you to go back in time to a version you had 2 hours ago. GitHub is Git plus a place on the internet where your code folders are.
 
-Have a look at the following reposittories:
+Have a look at the following repositories:
 
 - [Jupyter notebook](https://github.com/jupyter/notebook)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience)
 - [Dash sample apps](https://github.com/plotly/dash-sample-apps) - can you find how to access the gallery from the repo's landing page?
 
-Try searching the entire github for Python projects. It is fine not to understand the code, the dots will connect.
+Try searching the entire GitHub for Python projects. It is fine not to understand the code or all of the GitHub controls. The dots will connect.
 
 ## Task 2
 
-Create your GitHub account. Make the name meaningful. Your GitHub is likely to stay wih your forever.
-Find **Issues** on the main menu of this repository.
-Create your first issue - ask me to add you to the project by providing your GitHub account name
+- Create your GitHub account. Make the name meaningful. Your GitHub is likely to stay with your forever.
+- Find **Issues** on the main menu of this repository.
+- Create your first issue - ask me to add you to the project by providing your GitHub account name. 
+
+You can (and should) add emojis or labels to issues. One issue is there as an exmple.
 
 ## The end 🔚
