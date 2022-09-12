@@ -28,4 +28,10 @@ Try searching the entire GitHub for Python projects. It is fine not to understan
 
 You can (and should) add emojis or labels to issues. One issue is there as an exmple.
 
+Hi, my name is caitlin, i am writing random code. 
+
+I am doing a degree apprenticeship with Network Rail & New College of Humanties (London Base)
+
+I am currently in the university, it is my first day and i'm learning about data. :)
+
 ## The end 🔚
