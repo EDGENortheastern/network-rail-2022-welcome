@@ -34,6 +34,7 @@ I am doing a degree apprenticeship with Network Rail & New College of Humanties 
 
 I am currently in the university, it is my first day and i'm learning about data. :)
 
+I forgot my laptop is touch screen :(
 
 ## The end 🔚
 
