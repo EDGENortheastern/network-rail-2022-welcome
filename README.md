@@ -30,4 +30,4 @@ You can (and should) add emojis or labels to issues. One issue is there as an ex
 
 ## The end 🔚
 
-Hi, my name is Theo. I am having a blast learning a new coding language, please approve my edits of I will be upset 🙌 (｡◕‿◕｡)
+Hi, my name is Theo. I am having a blast learning a new coding language, please approve my edits or I will be upset 🙌 (｡◕‿◕｡)
