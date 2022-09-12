@@ -35,3 +35,5 @@ I am doing a degree apprenticeship with Network Rail & New College of Humanties 
 I am currently in the university, it is my first day and i'm learning about data. :)
 
 ## The end 🔚
+
+Hi, my name is Theo. I am having a blast learning a new coding language, please approve my edits or I will be upset 🙌 (｡◕‿◕｡)
