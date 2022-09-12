@@ -36,6 +36,8 @@ I am currently in the university, it is my first day and i'm learning about data
 
 I forgot my laptop is touch screen :(
 
+Welcome to London
+
 ## The end 🔚
 
 Hi, my name is Theo. I am having a blast learning a new coding language, please approve my edits or I will be upset 🙌 (｡◕‿◕｡)
